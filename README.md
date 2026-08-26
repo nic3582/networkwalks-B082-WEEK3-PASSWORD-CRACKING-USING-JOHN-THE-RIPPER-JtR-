@@ -25,9 +25,9 @@ This project demonstrates how to use **John the Ripper (JtR)** to test the stren
 * 
 * An authorized password/hash file
 
-* KALI LINUX 
+* K
 
-## 1. Install John the Ripper
+## 1. Installing John the Ripper from kali 
 
 On Kali Linux:
 
